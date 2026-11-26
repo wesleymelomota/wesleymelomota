@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Perfil
-- 👨‍🎓 Sou graduado em Analise e desenvolvimento de sistemas. Cursando pós graduação em segurança da informação.
-- 🤓 Tenho habilidade em desenvolvimento de script que eu creio que seja de grande ajuda em minha função como RedTeam.
-- 🔭 Atualmente estudo sobre cibersegurança e acho muito fascinante. Acumulei muita experiência até o momento incluindo área fora da tecnologia. já trabalhei 6 anos no exército 💂, 3 anos 
-- no ramo portuário e breve momento como assistente de analista.
+- 👨‍🎓 Sou graduado em Analise e desenvolvimento de sistemas.
+- 🤓 Tenho facilidade em aprender tecnologias novas. Tenho mais facilidade em linguagens de programação orientado a objetos devido meu conhecimento em Java. 
+- 🔭 Atualmente estudo .Net e React Native. Tenho como objetivo futuro me tornar dev full-stack e desenvolver APPs e consumir minhas próprias APIs que eu desenvolver em Asp.Net core ou tecnologias similares. 
 - 🌱 Estou sempre me desenvolvendo.
 - Gosto muito de programação e desenvolvimento.
+- Tenho Experiência em suporte a usuários N1 e N2.
 - Gosto muito de aprender e sou curioso.
 
 ## Habilidades 🥷
@@ -32,12 +32,10 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+<!--![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-005F87?style=for-the-badge&logo=gnometerminal&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)-->
 
 ### 📫 Onde me encontrar
 
